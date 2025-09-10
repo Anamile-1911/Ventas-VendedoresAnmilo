@@ -1,7 +1,8 @@
 package ProcesadorVentas;
 
 //** @Autora: Ana Milena Lobo Ospina @Anmilo
-
+// CONCEPTOS FUNDAMENTALES DE PROGRAMACIÓN - POLITECNICO GRANCOLOMBIANO
+// TUTOR: DIEGO ROA
 
 import java.io.*;
 import java.nio.file.*;
@@ -49,3 +50,4 @@ public class ProcesadorVentas {
         }
     }
 }
+
