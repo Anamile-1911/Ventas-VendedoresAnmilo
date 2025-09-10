@@ -1,3 +1,8 @@
+//** @Autora: Ana Milena Lobo Ospina @Anmilo
+// CONCEPTOS FUNDAMENTALES DE PROGRAMACIÓN - POLITECNICO GRANCOLOMBIANO
+// TUTOR: DIEGO ROA
+
+
 package ProcesadorVentas;
 
 import java.io.BufferedWriter;
@@ -18,3 +23,4 @@ public class CrearArchivo {
 	}
 
 }
+
