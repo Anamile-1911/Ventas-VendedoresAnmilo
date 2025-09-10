@@ -1,0 +1,1 @@
+string carpeta = "archivos_vendedores/";

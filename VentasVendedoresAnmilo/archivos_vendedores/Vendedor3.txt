@@ -1,0 +1,4 @@
+CC;1003; Carlos Avila
+Ref06;Sombrero;8;500.000;
+Ref08;Sweater;4;25.000;
+Ref04;Bermuda;7;75.000;

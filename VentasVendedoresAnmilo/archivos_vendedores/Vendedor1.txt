@@ -1,0 +1,4 @@
+CC;1001; Daniela Aristizabal
+Ref01;Medias;8;5.000;
+Ref02;Camisas;4;25.000;
+Ref03;Pantalones;7;150.000;

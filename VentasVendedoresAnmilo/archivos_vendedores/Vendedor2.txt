@@ -1,0 +1,4 @@
+CC;1002; Gabriel Gomez
+Ref05;Corbata;1;25.000;
+Ref07;Zapatos;4;355.000;
+Ref09;Cinturon;7;75.000;
