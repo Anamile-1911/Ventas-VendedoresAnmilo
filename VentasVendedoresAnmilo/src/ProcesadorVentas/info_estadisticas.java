@@ -140,7 +140,7 @@ public class info_estadisticas {
         String productoMin = Collections.min(productosVendidos.entrySet(), Map.Entry.comparingByValue()).getKey();
         
         System.out.println("Producto más vendido: " + productoTop);
-        System.out.println("Producto más vendido: " + productoMin);
+        System.out.println("Producto mesnos vendido: " + productoMin);
         System.out.println("Vendedor con más ventas: " + vendedorMax);
         System.out.println("Vendedor con menos ventas: " + vendedorMin);
     }
