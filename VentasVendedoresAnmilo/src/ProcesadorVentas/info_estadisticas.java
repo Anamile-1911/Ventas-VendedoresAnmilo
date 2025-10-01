@@ -12,7 +12,7 @@ public class info_estadisticas {
     static Map<String, Integer> ventasPorVendedor = new HashMap<>();
     static Map<String, Integer> productosVendidos = new HashMap<>();
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {  //** Iniciando procesos
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Opciones:");
@@ -41,7 +41,7 @@ public class info_estadisticas {
         scanner.close();
     }
 
-    public static void registrarVendedor(Scanner scanner) {
+    public static void registrarVendedor(Scanner scanner) { //* espacio para registrar los vendedores
         System.out.print("Tipo de documento del vendedor: ");
         String tipoDoc = scanner.nextLine();
 
@@ -58,7 +58,7 @@ public class info_estadisticas {
         StringBuilder contenido = new StringBuilder();
         contenido.append(tipoDoc).append(";").append(numDoc).append(";").append(tipoName).append("");
 
-        for (int i = 0; i < cantidadProductos; i++) {
+        for (int i = 0; i < cantidadProductos; i++) { // ya teniendo los datos registrados del vendedor en el buffer se  
             System.out.println("Producto #" + (i + 1));
             System.out.print("ID del producto: ");
             String idProducto = scanner.nextLine();
